@@ -1,0 +1,42 @@
+body {
+  font-family: 'Comfortaa', sans-serif;
+  background-color: #a0c6ef;
+}
+
+h1, h2 {
+  color: olive;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #a0c6ef;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+label {
+  color: olive;
+  font-weight: bold;
+}
+
+input[type="text"] {
+  font-family: 'Comfortaa', sans-serif;
+  color: rgb(227, 188, 255);
+}
+
+button[type="submit"] {
+  background-color: olive;
+  color: rgb(163, 218, 218);
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Comfortaa', sans-serif;
+}
+
+
